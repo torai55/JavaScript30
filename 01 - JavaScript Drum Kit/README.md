@@ -52,7 +52,7 @@
 
 1. `transitionend`事件結束時移除 playing：
 
-    壓住按鍵時，頁面按鈕會閃爍。某些情況下可能會無法移除按鈕特效，見[探索](探索：在練習的範例中，擴充或調整與主題相關的功能)。
+    壓住按鍵時，頁面按鈕會閃爍。某些情況下可能會無法移除按鈕特效，見[探索](https://github.com/torai55/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit#%E6%8E%A2%E7%B4%A2%E5%9C%A8%E7%B7%B4%E7%BF%92%E7%9A%84%E7%AF%84%E4%BE%8B%E4%B8%AD%E6%93%B4%E5%85%85%E6%88%96%E8%AA%BF%E6%95%B4%E8%88%87%E4%B8%BB%E9%A1%8C%E7%9B%B8%E9%97%9C%E7%9A%84%E5%8A%9F%E8%83%BD)。
 2. `keyup` 放開按鍵時移除 playing：
 
     壓住按鍵時，頁面按鈕不會閃爍。
