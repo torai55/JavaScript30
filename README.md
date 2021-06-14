@@ -26,4 +26,4 @@
 
 | 單元        | 簡介                   | 筆記                                               | Demo                                                      |
 | ----------- | ---------------------- | -------------------------------------------------- | --------------------------------------------------------- |
-| 1. Drum kit | 實作按下鍵盤發出的效果 | [筆記](./01%20-%20JavaScript%20Drum%Kit/README.md) | [Demo](./01%20-%20JavaScript%20Drum%Kit/index-Torai.html) |
+| 1. Drum kit | 實作按下鍵盤發出的效果 | [筆記](https://github.com/torai55/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) | [Demo](https://torai55.github.io/JavaScript30//01%20-%20JavaScript%20Drum%20Kit/index-Torai.html) |
